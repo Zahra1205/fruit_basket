@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.header
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+color: black;
+}
+#back{
+    float: left;
+}
+.header{
+    border-radius: 50px;
+    font-size: 25px;
+}
